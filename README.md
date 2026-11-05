@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khoi
 
-Full-stack software engineer in Ho Chi Minh City, graduating from FPT University (Software Engineering) in October 2026.
+Full-stack software engineer in Ho Chi Minh City, graduated from FPT University (Software Engineering) in 2026.
 I build C#/.NET and PostgreSQL backends with TypeScript frontends, and I develop with AI coding agents (Claude Code) under a spec, test and review workflow.
 
 ## 🚀 Featured projects
